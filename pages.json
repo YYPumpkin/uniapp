@@ -1,0 +1,53 @@
+{
+  "globalStyle": {},
+  "pages": [
+    {
+      "path": "pages/page/page",
+      "style": {}
+    },
+    {
+      "path": "pages/page1_1/page1_1",
+      "style": {"navigationBarTitleText": "卡牌游戏1"}
+    },
+    {
+      "path": "pages/page1_2/page1_2",
+      "style": {"navigationBarTitleText": "卡牌游戏2"}
+    },
+    {
+      "path": "pages/page1_3/page1_3",
+      "style": {"navigationBarTitleText": "卡牌游戏3"}
+    },
+    {
+      "path": "pages/page1_4/page1_4",
+      "style": {"navigationBarTitleText": "卡牌游戏4"}
+    },
+    {
+      "path": "pages/page1_5/page1_5",
+      "style": {"navigationBarTitleText": "卡牌游戏5"}
+    },
+    {
+      "path": "pages/page1_6/page1_6",
+      "style": {"navigationBarTitleText": "卡牌游戏6"}
+    },
+    {
+      "path": "pages/page1/page1",
+      "style": {"navigationBarTitleText": "卡牌游戏"}
+    },
+	{
+	  "path": "pages/page2/mode",
+	  "style": {"navigationBarTitleText": "选择模式"}
+	},
+	{
+	  "path": "pages/lottery_wheel1",
+	  "style": {"navigationBarTitleText": "聚会模式"}
+	},
+	{
+	  "path": "pages/lottery_wheel2",
+	  "style": {"navigationBarTitleText": "情侣模式"}
+	},
+	{
+	  "path": "pages/lottery_wheel3",
+	  "style": {"navigationBarTitleText": "破冰模式"}
+	}
+  ]
+}
